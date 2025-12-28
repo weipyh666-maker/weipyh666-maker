@@ -25,46 +25,44 @@ npm ≥ 9
 
 可通过以下命令检查：
 
-node -v
-npm -v
+<img width="1121" height="220" alt="image" src="https://github.com/user-attachments/assets/217bbade-8c94-4e43-a990-3ee2e1fbce3f" />
+
 
 五、项目依赖说明
-运行时依赖（dependencies）
-依赖名	说明
-react	React 核心库
-react-dom	React DOM 渲染
-lucide-react	React 图标组件库
-开发依赖（devDependencies）
-依赖名	说明
-vite	前端构建工具
-@vitejs/plugin-react	Vite 的 React 插件
-typescript	TypeScript 支持
-@types/node	Node.js 类型定义
+<img width="1045" height="379" alt="image" src="https://github.com/user-attachments/assets/cd0b7fc1-7847-46d5-b9fa-8e0e1fef63c3" />
+
+<img width="1261" height="464" alt="image" src="https://github.com/user-attachments/assets/5ea263d5-c29b-4609-904b-e134c9f973f9" />
+
 六、安装与运行
 1. 安装依赖
 在项目根目录下执行：
 
-npm install
+<img width="1177" height="180" alt="image" src="https://github.com/user-attachments/assets/6562bc0b-2445-49b8-ade6-084c78fa7e61" />
+
 
 2. 启动开发环境
-npm run dev
+<img width="1344" height="99" alt="image" src="https://github.com/user-attachments/assets/25b1a712-f411-49fb-8035-2984a2a1ec5e" />
+
 
 
 启动成功后，终端会显示本地访问地址，例如：
 
-http://localhost:5173
+<img width="1344" height="99" alt="image" src="https://github.com/user-attachments/assets/b7374a2a-2ea1-4596-b89e-b17e378d74b0" />
+
 
 
 在浏览器中打开即可预览项目。
 
 3. 构建生产环境代码
-npm run build
+<img width="1344" height="99" alt="image" src="https://github.com/user-attachments/assets/77014b12-b218-4795-b6dd-5f17452fcb63" />
+
 
 
 构建完成后，会在 dist/ 目录生成生产环境文件。
 
 4. 本地预览生产环境
-npm run preview
+<img width="1344" height="99" alt="image" src="https://github.com/user-attachments/assets/920a29eb-3d92-4e8b-be9d-c3be74f4b388" />
+
 
 
 用于模拟生产环境效果。
@@ -73,10 +71,8 @@ npm run preview
 
 项目支持通过 .env.local 文件配置本地环境变量，例如：
 
-VITE_API_BASE_URL=http://localhost:3000
+<img width="1344" height="174" alt="image" src="https://github.com/user-attachments/assets/b64378ad-f998-4321-ac3f-9a4baaa1312c" />
 
-
-以 VITE_ 开头的变量才会被 Vite 注入到前端代码中。
 
 八、开发说明
 
