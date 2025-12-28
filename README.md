@@ -13,31 +13,7 @@ CraveDelivery 是一个基于 React + TypeScript + Vite 构建的前端项目，
 
 图标库：lucide-react
 
-包管理工具：npm（推荐）或 pnpm / yarn
-
-三、项目目录结构
-├── components/           # 公共组件
-│   └── Navigation.tsx
-├── pages/                # 页面级组件
-│   ├── Wallet.tsx
-│   ├── Coupons.tsx
-│   ├── Checkout.tsx
-│   ├── OrderProgress.tsx
-│   ├── AddressList.tsx
-│   ├── MapMode.tsx
-│   ├── Settings.tsx
-│   └── ...
-├── App.tsx               # 应用入口组件
-├── index.tsx             # React 挂载入口
-├── index.html            # HTML 模板
-├── constants.ts          # 全局常量
-├── types.ts              # 全局类型定义
-├── vite.config.ts        # Vite 配置文件
-├── tsconfig.json         # TypeScript 配置
-├── package.json          # 项目依赖与脚本
-├── .env.local            # 本地环境变量
-└── README.md             # 项目说明文档
-<img width="134" height="98" alt="image" src="https://github.com/user-attachments/assets/8e2ea0d1-5d36-47b0-8391-5fafec1fb0a2" />
+<img width="444" height="625" alt="image" src="https://github.com/user-attachments/assets/0600941f-feab-4f10-9211-7264df72502e" />
 
 四、环境要求
 
