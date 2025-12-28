@@ -1,4 +1,4 @@
-CraveDelivery 项目说明
+<img width="134" height="98" alt="image" src="https://github.com/user-attachments/assets/3062ff6e-56e7-481d-8f53-a01156c7bffb" />CraveDelivery 项目说明
 一、项目简介
 
 CraveDelivery 是一个基于 React + TypeScript + Vite 构建的前端项目，主要用于外卖/配送类应用的界面展示与交互。项目采用组件化与页面化结构，包含地址管理、订单流程、支付方式、地图模式等功能页面，适合二次开发与功能扩展。
@@ -37,6 +37,7 @@ CraveDelivery 是一个基于 React + TypeScript + Vite 构建的前端项目，
 ├── package.json          # 项目依赖与脚本
 ├── .env.local            # 本地环境变量
 └── README.md             # 项目说明文档
+<img width="134" height="98" alt="image" src="https://github.com/user-attachments/assets/8e2ea0d1-5d36-47b0-8391-5fafec1fb0a2" />
 
 四、环境要求
 
@@ -65,7 +66,6 @@ typescript	TypeScript 支持
 @types/node	Node.js 类型定义
 六、安装与运行
 1. 安装依赖
-
 在项目根目录下执行：
 
 npm install
@@ -100,7 +100,7 @@ npm run preview
 VITE_API_BASE_URL=http://localhost:3000
 
 
-⚠️ 以 VITE_ 开头的变量才会被 Vite 注入到前端代码中。
+以 VITE_ 开头的变量才会被 Vite 注入到前端代码中。
 
 八、开发说明
 
@@ -120,4 +120,3 @@ VITE_API_BASE_URL=http://localhost:3000
 
 React + Vite + TS 学习示例
 
-前端课程 / 毕设 / 原型项目
