@@ -1,4 +1,4 @@
-<img width="134" height="98" alt="image" src="https://github.com/user-attachments/assets/3062ff6e-56e7-481d-8f53-a01156c7bffb" />CraveDelivery 项目说明
+<h1>项目说明</h1>
 一、项目简介
 
 CraveDelivery 是一个基于 React + TypeScript + Vite 构建的前端项目，主要用于外卖/配送类应用的界面展示与交互。项目采用组件化与页面化结构，包含地址管理、订单流程、支付方式、地图模式等功能页面，适合二次开发与功能扩展。
