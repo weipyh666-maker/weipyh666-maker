@@ -1,9 +1,9 @@
 <h1>项目说明</h1>
-一、项目简介
+<h2>一、项目简介</h2>
 
 CraveDelivery 是一个基于 React + TypeScript + Vite 构建的前端项目，主要用于外卖/配送类应用的界面展示与交互。项目采用组件化与页面化结构，包含地址管理、订单流程、支付方式、地图模式等功能页面，适合二次开发与功能扩展。
 
-二、技术栈
+<h2>二、技术栈</h2>
 
 前端框架：React 19
 
@@ -15,7 +15,7 @@ CraveDelivery 是一个基于 React + TypeScript + Vite 构建的前端项目，
 
 <img width="444" height="625" alt="image" src="https://github.com/user-attachments/assets/0600941f-feab-4f10-9211-7264df72502e" />
 
-四、环境要求
+<h2>四、环境要求</h2>
 
 在运行项目前，请确保本地已安装以下环境：
 
@@ -28,12 +28,12 @@ npm ≥ 9
 <img width="1121" height="220" alt="image" src="https://github.com/user-attachments/assets/217bbade-8c94-4e43-a990-3ee2e1fbce3f" />
 
 
-五、项目依赖说明
+<h2>五、项目依赖说明</h2>
 <img width="1045" height="379" alt="image" src="https://github.com/user-attachments/assets/cd0b7fc1-7847-46d5-b9fa-8e0e1fef63c3" />
 
 <img width="1261" height="464" alt="image" src="https://github.com/user-attachments/assets/5ea263d5-c29b-4609-904b-e134c9f973f9" />
 
-六、安装与运行
+<h2>六、安装与运行</h2>
 1. 安装依赖
 在项目根目录下执行：
 
@@ -67,14 +67,14 @@ npm ≥ 9
 
 用于模拟生产环境效果。
 
-七、环境变量说明
+<h2>七、环境变量说明</h2>
 
 项目支持通过 .env.local 文件配置本地环境变量，例如：
 
 <img width="1344" height="174" alt="image" src="https://github.com/user-attachments/assets/b64378ad-f998-4321-ac3f-9a4baaa1312c" />
 
 
-八、开发说明
+<h2>八、开发说明</h2>
 
 页面级功能统一放在 pages/ 目录
 
@@ -86,7 +86,7 @@ npm ≥ 9
 
 路由与页面切换逻辑可在 App.tsx 中扩展
 
-九、适用场景
+<h2>九、适用场景</h2>
 
 外卖 / 同城配送前端项目
 
